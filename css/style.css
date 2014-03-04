@@ -1,0 +1,31 @@
+@charset "utf-8";
+.wraper {
+	width: 100%;
+	float: left;
+	height: auto;
+}
+.header {
+	background-color: #FFFFFF;
+	float: left;
+	height: 100px;
+	width: 100%;
+	border-bottom-width: 5px;
+	border-bottom-style: solid;
+	border-bottom-color: #00CC00;
+}
+.conatiner {
+	float: left;
+	width: 100%;
+	height: auto;
+}
+.container-left {
+	background-color: #F2F2F2;
+	float: left;
+	width: 20%;
+	height: auto;
+}
+.container-right {
+	float: left;
+	width: 80%;
+	height: auto;
+}
